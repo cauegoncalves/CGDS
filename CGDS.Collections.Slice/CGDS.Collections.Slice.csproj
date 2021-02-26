@@ -3,13 +3,14 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageId>Slice</PackageId>
+    <PackageId>ListSlice</PackageId>
     <Authors>Caue Gonçalves dos Santos</Authors>
     <Company>CGDS</Company>
     <Description>A list extension that slices a list in multiple lists of a determined size.</Description>
     <RepositoryUrl>https://github.com/cauegoncalves/CGDS</RepositoryUrl>
     <PackageProjectUrl>https://github.com/cauegoncalves/CGDS</PackageProjectUrl>
     <PackageTags>slice;array;segment;list;extension</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>

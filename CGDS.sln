@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGDS.Collections.Slice", "CGDS.Collections.Slice\CGDS.Collections.Slice.csproj", "{9E8FA93B-215A-4774-A86D-4346DB2BE7D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGDS.Collections.Slice.Test", "CGDS.Collections.Slice.Test\CGDS.Collections.Slice.Test.csproj", "{2BBF4227-6FAF-4E33-8BDD-1327A539BC9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E8FA93B-215A-4774-A86D-4346DB2BE7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E8FA93B-215A-4774-A86D-4346DB2BE7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E8FA93B-215A-4774-A86D-4346DB2BE7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E8FA93B-215A-4774-A86D-4346DB2BE7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BBF4227-6FAF-4E33-8BDD-1327A539BC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BBF4227-6FAF-4E33-8BDD-1327A539BC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BBF4227-6FAF-4E33-8BDD-1327A539BC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BBF4227-6FAF-4E33-8BDD-1327A539BC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9293CAA-4E56-44BD-8765-4D90AC7658EE}
+	EndGlobalSection
+EndGlobal
